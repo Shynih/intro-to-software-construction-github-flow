@@ -14,4 +14,5 @@ unsigned int count(const std::string& str) {
     }
 
     return counter;
+
 }
